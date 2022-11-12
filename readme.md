@@ -1,3 +1,3 @@
-# Lovebook - Jual Beli Buku Bekas Berkualitas
+# Lovebook - Jual beli buku bekas berkualitas
 
-Source code untuk project web Lovebook
+Ini merupakan source code untuk project web Lovebook.
